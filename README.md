@@ -23,13 +23,13 @@
 
 ### Dark Mode : ###
 <p float="left">
-<img src="https://user-images.githubusercontent.com/10852409/79806208-b8bdf080-831c-11ea-93c4-5c6328e86215.PNG" width="300"> <img src="https://user-images.githubusercontent.com/10852409/79806432-3eda3700-831d-11ea-9e17-95943a9f624b.PNG" width="300">
+<img src="https://user-images.githubusercontent.com/10852409/83457965-88d33400-a416-11ea-95c4-e2ff637a5077.png" width="300"> <img src="https://user-images.githubusercontent.com/10852409/83457985-938dc900-a416-11ea-8a9b-68076aabfb9b.png" width="300">
 </p>
  
  
 ### Light Mode : ###
 <p float="left">
 <img src="https://user-images.githubusercontent.com/10852409/83457812-47428900-a416-11ea-8bed-d41722fb2c14.png" width="300">
-<img src="https://user-images.githubusercontent.com/10852409/79806443-4994cc00-831d-11ea-83c1-d36a1366a7b4.PNG" width="300">
+<img src="https://user-images.githubusercontent.com/10852409/83457947-7c4edb80-a416-11ea-8d72-c0ae138e56bd.png" width="300">
 </p>
 
