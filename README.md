@@ -29,7 +29,7 @@
  
 ### Light Mode : ###
 <p float="left">
-<img src="https://user-images.githubusercontent.com/10852409/79806440-44378180-831d-11ea-8438-2f8af378fb44.PNG" width="300">
+<img src="https://user-images.githubusercontent.com/10852409/83457812-47428900-a416-11ea-8bed-d41722fb2c14.png" width="300">
 <img src="https://user-images.githubusercontent.com/10852409/79806443-4994cc00-831d-11ea-83c1-d36a1366a7b4.PNG" width="300">
 </p>
 
