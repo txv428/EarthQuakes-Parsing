@@ -1,6 +1,6 @@
 # EarthQuakes-Parsing
   
-  [Demo](https://drive.google.com/file/d/1teSA5htNOaSds3VaHZgL5WqXAGIqkwPI/view?usp=sharing)
+  [Demo](https://drive.google.com/file/d/1H_BT-25c78JSOQLE3PKhIU3Kn4qQi9Zu/view?usp=sharing)
   
 ## App Description ##
   * EarthQuakes-Parsing App, Written in Swift 5, Xcode - 11.4 
